@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open.School.Web", "Open.School.Web\Open.School.Web.csproj", "{A5F1108F-5787-45F9-9A1F-67DC1DB9CB8C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Open.School.Data", "Open.School.Data\Open.School.Data.csproj", "{067D66AD-FAD4-4DCC-BC2D-437851541C1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A5F1108F-5787-45F9-9A1F-67DC1DB9CB8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5F1108F-5787-45F9-9A1F-67DC1DB9CB8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5F1108F-5787-45F9-9A1F-67DC1DB9CB8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{067D66AD-FAD4-4DCC-BC2D-437851541C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067D66AD-FAD4-4DCC-BC2D-437851541C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067D66AD-FAD4-4DCC-BC2D-437851541C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067D66AD-FAD4-4DCC-BC2D-437851541C1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

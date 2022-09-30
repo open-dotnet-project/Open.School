@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Open.School.Web.Data;
+using Open.School.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
