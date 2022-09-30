@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Open.School.Data\Open.School.Data.csproj" />
+    <ProjectReference Include="..\Open.School.Models\Open.School.Models.csproj" />
   </ItemGroup>
 
 </Project>

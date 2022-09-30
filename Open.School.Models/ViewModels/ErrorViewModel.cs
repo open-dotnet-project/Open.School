@@ -1,4 +1,4 @@
-namespace Open.School.Web.Models
+namespace Open.School.ViewModels
 {
     public class ErrorViewModel
     {
