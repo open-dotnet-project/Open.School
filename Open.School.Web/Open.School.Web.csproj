@@ -18,6 +18,8 @@
   <ItemGroup>
     <ProjectReference Include="..\Open.School.Data\Open.School.Data.csproj" />
     <ProjectReference Include="..\Open.School.Models\Open.School.Models.csproj" />
+    <ProjectReference Include="..\Open.School.Repository\Open.School.Repository.csproj" />
+    <ProjectReference Include="..\Open.School.Services\Open.School.Services.csproj" />
   </ItemGroup>
 
 </Project>
