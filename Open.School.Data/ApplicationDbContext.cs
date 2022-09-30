@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace Open.School.Web.Data
+namespace Open.School.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {

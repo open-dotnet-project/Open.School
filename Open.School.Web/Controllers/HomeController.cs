@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Open.School.Web.Models;
+using Open.School.ViewModels;
 using System.Diagnostics;
 
 namespace Open.School.Web.Controllers
